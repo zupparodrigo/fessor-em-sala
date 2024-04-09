@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: darkorchid;
+font: 300;
+
+    text-align: center;
+    font-family: noto-sans, serif;
+}
+*{
+    border-radius: 12px;
+}
+.klaus{
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+}
+.violet{
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+}
+.sunny
+{
+    
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+}
+
+.biografia {
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+    padding-right: 24px;
+
+}
+div  a {
+color: blueviolet;
+}
